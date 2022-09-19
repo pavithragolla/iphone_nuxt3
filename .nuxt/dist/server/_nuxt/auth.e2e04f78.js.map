@@ -1,0 +1,1 @@
+{"version":3,"file":"auth.e2e04f78.js","sources":["../../../../middleware/auth.js"],"sourcesContent":["export default defineNuxtRouteMiddleware(() => {});\r\nconst auth = useAuth();\r\nconst hi = auth.value.isAuthenticated;\r\n"],"names":["auth"],"mappings":";;;;;;;;;;;;;AAAA,MAAA,OAAA,0BAAA,MAAA;AAAA,CAAA;AACA,MAAAA,SAAA,QAAA;AACAA,OAAA,MAAA;"}

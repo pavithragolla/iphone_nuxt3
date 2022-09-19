@@ -1,0 +1,1 @@
+import{a as t,o,b as s,F as a,e}from"./entry.3dcb65fa.js";const n={},c=e("div",null,null,-1),r=e("div",null,"about",-1);function l(_,u,d,i,p,f){return o(),s(a,null,[c,r],64)}const $=t(n,[["render",l]]);export{$ as default};

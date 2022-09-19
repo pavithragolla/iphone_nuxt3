@@ -1,0 +1,1 @@
+import{a as t,o as a,b as o,e,J as n}from"./entry.3dcb65fa.js";const _={},r={class:"user-layout bg-gray-100"},c={class:"sidebar"},l=e("p",null,"Dashboard",-1),d=e("p",null,"Settings",-1);function i(s,u){return a(),o("main",r,[e("article",c,[n(s.$slots,"default"),l,d])])}const p=t(_,[["render",i]]);export{p as default};

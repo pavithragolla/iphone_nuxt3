@@ -1,0 +1,1 @@
+export { default } from "file:///C:/Users/Nspira/documents/nuxt3apps/nuxt3iphone/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"

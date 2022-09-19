@@ -1,0 +1,1 @@
+import{o,b as t,e as a,f as n,h as c}from"./entry.3dcb65fa.js";const s=n(" Home page "),l={__name:"index",setup(r){function e(){c("about")}return(u,_)=>(o(),t("div",null,[s,a("button",{onClick:e},"To About")]))}};export{l as default};
